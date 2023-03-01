@@ -5,17 +5,17 @@ and disadvantages of using trees as data structures. We learned about how to
 qualify trees as well as how to traverse them. Throughout the project, we
 implemented binary, binary search, AVL, and Max Binary Heap trees.
 
-## Tests :heavy_check_mark
+## Tests :heavy_check_mark:
 
 * [tests](./tests): Folder of test files for all tasks. Provided by Holberton
 School.
 
-## Helper File :raised_hands
+## Helper File :raised_hands:
 
 * [binary_tree_print.c](./binary_tree_print.c): C function that prints binary
 trees in a pretty way.
 
-## Header File :file_folder
+## Header File :file_folder:
 
 * [binary_trees.h](./binary_trees.h): Header file containing definitions and
 prototypes for all types and functions written for the project.
@@ -75,7 +75,7 @@ Function Prototypes
 | `121-avl_insert.c`               | `avl_t *avl_insert(avl_t **tree, int value);`                                                    |
 | `122-array_to_avl.c`             | `avl_t *array_to_avl(int *array, size_t size);`                                                  |
 
-## Tasks :page_with_curl
+## Tasks :page_with_curl:
 
 * **0. New node**
   * [0-binary_tree_node.c](./0-binary_tree_node.c): C function that creates a
@@ -260,4 +260,4 @@ Function Prototypes
 
 ## Authors :black_nib
 
-* **Igbokwe Chibueze** <[bdbaraban](https://github.com/igbokwe-chibueze)>
+* **Igbokwe Chibueze** <[home](https://github.com/igbokwe-chibueze)>
